@@ -1,0 +1,6 @@
+../get_next_line_utils.c: Error!
+Error: DECL_ASSIGN_LINE     (line:  19, col:  18):	Declaration and assignation on a single line
+Error: TERNARY_FBIDDEN      (line:  19, col:  25):	Ternaries are forbidden
+Error: DECL_ASSIGN_LINE     (line:  20, col:  18):	Declaration and assignation on a single line
+Error: DECL_ASSIGN_LINE     (line:  21, col:  21):	Declaration and assignation on a single line
+Error: NL_AFTER_VAR_DECL    (line:  22, col:   1):	Variable declarations must be followed by a newline
